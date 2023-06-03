@@ -1,0 +1,48 @@
+.puntaje{
+    border: 5px dashed black;
+    border-radius: 10px;
+}
+
+.puntaje span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.reini{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    
+}
+
+
+
+.res{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    background-color: rgb(85, 85, 216);
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.botones{
+    display: flex;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
